@@ -50,6 +50,7 @@ PHP library for generating PDF documents on-the-fly.
 * XOBject Templates;
 * Layers and object visibility.
 * PDF/A-1b support.
+* Font THSarabun Thai.
 
 ### Third party fonts:
 
